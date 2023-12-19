@@ -20,10 +20,10 @@ This is an app for playing a memory card game with many players.
   - The game ends when all cards all flipped.
 # Site ScreenShot
 ![](Memory-Cards-Game-main-menu.png)
-![](Memory-Cards-Game-main-menu-game-setup.png)
-![](Memory-Cards-Game-main-menu-rules.png)
-![](Memory-Cards-Game-main-menu-players-1.png)
-![](Memory-Cards-Game-main-menu-players-2.png)
-![](Memory-Cards-Game-main-menu-players-3.png)
-![](Memory-Cards-Game-main-menu-players-4-1.png)
-![](Memory-Cards-Game-main-menu-players-4-2.png)
+![](Memory-Cards-Game-game-setup.png)
+![](Memory-Cards-Game-rules.png)
+![](Memory-Cards-Game-players-1.png)
+![](Memory-Cards-Game-players-2.png)
+![](Memory-Cards-Game-players-3.png)
+![](Memory-Cards-Game-players-4-1.png)
+![](Memory-Cards-Game-players-4-2.png)
